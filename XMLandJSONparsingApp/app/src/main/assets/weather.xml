@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<records>
+    <weather>
+        <City_name>Bengaluru</City_name>
+        <Latitude>12.9716° N</Latitude>
+        <Longitude>77.5946° E</Longitude>
+        <Temperature>33°C</Temperature>
+        <Humidity>47%</Humidity>
+    </weather>
+</records>
